@@ -1,6 +1,6 @@
 # Software Development Live Cycle
 
-https://miro.medium.com/max/1200/0*qZ1JOnVpPokvnr69.jpg
+(https://miro.medium.com/max/1200/0*qZ1JOnVpPokvnr69.jpg)
 
     jika kalian adalah seorang software developer maka anda tidak akan asing dengan istilah SDLC. Namun apa sebenarnya SDLC itu? SDLC atau sofware Develper Live Cycle adalah sebuah metedologi yang terdapat merencanakan, mengembangkan, dan melakuakan perawatan terhadap sebuah proyek dari sebuah perangkat lunak atau software.
 
